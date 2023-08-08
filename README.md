@@ -14,5 +14,5 @@ If you find this paper and code useful, please cite our paper.
 
 
 #### Contact
-* Bill Xiao: billxiao[at]link[dot]cuhk[dot]edu[dot]hk
+* Bill Xiao: billxiao@link.cuhk.edu.hk
 
